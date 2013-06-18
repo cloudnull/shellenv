@@ -1,0 +1,14 @@
+_HiStOrY_V2_
+import\040requests
+import\040httplib
+x\040=\040print('HELP')
+print('HELP')
+python\040from\040powerline.vim\040import\040setup\040as\040powerline_setup
+python\040powerline_setup()
+python\040del\040powerline_setup
+import\040sys
+sys.path
+from\040powerline.vim\040import\040setup\040as\040powerline_setup
+import\040json
+i\040=\040{'a':\04012}
+print\040i\040

@@ -1,0 +1,15 @@
+.less-history-file:
+.search
+"--global
+"global
+"time
+"file
+"-d
+"-i
+"description
+"-m
+"-I
+"tree
+"compress-level
+"sparse
+.shell

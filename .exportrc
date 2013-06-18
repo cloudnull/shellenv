@@ -1,0 +1,6 @@
+export HISTSIZE=10000
+export HISTTIMEFORMAT="%h %d %H:%M:%S "
+export PATH=/Users/CloudNull/scripts/RSScripting:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=/Library/Frameworks/Python.framework/Versions/2.7/bin:$PATH
+export PATH=/Users/CloudNull/Library/Python/2.7/bin:$PATH
